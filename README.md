@@ -1,5 +1,9 @@
 # ecommerce-delivery-dashboard
 Excel dashboard analyzing e-commerce delivery performance using PivotTables, PivotCharts, and slicers.
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
 ## Objective
 Analyze order fulfillment performance across shipping methods, customer regions, and product categories.
 
